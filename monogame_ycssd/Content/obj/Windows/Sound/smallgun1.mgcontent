@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>D:/vs2015 project/monogame_ycssd/monogame_ycssd/Content/Sound/smallgun1.mp3</SourceFile>
+  <SourceTime>2018-10-13T08:32:41.2841597+08:00</SourceTime>
+  <DestFile>D:/vs2015 project/monogame_ycssd/monogame_ycssd/Content/bin/Windows/Sound/smallgun1.xnb</DestFile>
+  <DestTime>2018-10-13T08:33:51.9207925+08:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2017-03-01T23:05:36+08:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2017-03-01T23:05:36+08:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

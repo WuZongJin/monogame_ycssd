@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/vs2015 project/monogame_ycssd/monogame_ycssd/Content/MyLevel.xml</File>
+    <File>D:/vs2015 project/monogame_ycssd/monogame_ycssd/Content/DefaultFomt.spritefont</File>
+    <File>D:/vs2015 project/monogame_ycssd/monogame_ycssd/Content/herodata.xml</File>
+    <File>D:/vs2015 project/monogame_ycssd/monogame_ycssd/Content/bullet1_data.xml</File>
+    <File>D:/vs2015 project/monogame_ycssd/monogame_ycssd/Content/bullet1.png</File>
+    <File>D:/vs2015 project/monogame_ycssd/monogame_ycssd/Content/cursor.png</File>
+    <File>D:/vs2015 project/monogame_ycssd/monogame_ycssd/Content/enemy1.png</File>
+    <File>D:/vs2015 project/monogame_ycssd/monogame_ycssd/Content/samllgun.png</File>
+    <File>D:/vs2015 project/monogame_ycssd/monogame_ycssd/Content/hero.png</File>
+    <File>D:/vs2015 project/monogame_ycssd/monogame_ycssd/Content/tile1.png</File>
+    <File>D:/vs2015 project/monogame_ycssd/monogame_ycssd/Content/pig1_230x85.png</File>
+    <File>D:/vs2015 project/monogame_ycssd/monogame_ycssd/Content/boomEffect1.png</File>
+    <File>D:/vs2015 project/monogame_ycssd/monogame_ycssd/Content/wall1.png</File>
+    <File>D:/vs2015 project/monogame_ycssd/monogame_ycssd/Content/enemyGBL.png</File>
+    <File>D:/vs2015 project/monogame_ycssd/monogame_ycssd/Content/stage1data.xml</File>
+    <File>D:/vs2015 project/monogame_ycssd/monogame_ycssd/Content/herohealth.png</File>
+    <File>D:/vs2015 project/monogame_ycssd/monogame_ycssd/Content/EnemyBoom1.png</File>
+    <File>D:/vs2015 project/monogame_ycssd/monogame_ycssd/Content/Sound/smallgun1.mp3</File>
+    <File>D:/vs2015 project/monogame_ycssd/monogame_ycssd/Content/Sound/pigAttack1.mp3</File>
+    <File>D:/vs2015 project/monogame_ycssd/monogame_ycssd/Content/Sound/pigDeath.mp3</File>
+    <File>D:/vs2015 project/monogame_ycssd/monogame_ycssd/Content/Sound/heroGetHert.mp3</File>
+    <File>D:/vs2015 project/monogame_ycssd/monogame_ycssd/Content/bossbullet.png</File>
+    <File>D:/vs2015 project/monogame_ycssd/monogame_ycssd/Content/enemyBoss.png</File>
+    <File>D:/vs2015 project/monogame_ycssd/monogame_ycssd/Content/Sound/bgm.mp3</File>
+    <File>D:/vs2015 project/monogame_ycssd/monogame_ycssd/Content/bossblood.png</File>
+    <File>D:/vs2015 project/monogame_ycssd/monogame_ycssd/Content/bossBoledBar.png</File>
+  </SourceFiles>
+</SourceFileCollection>

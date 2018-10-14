@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:ns="Microsoft.Xna.Framework">
+  <Asset Type="MyXMLData.xmlData">
+    <LevelName>Level1</LevelName>
+    <EnemyNum>10</EnemyNum>
+  </Asset>
+</XnaContent>

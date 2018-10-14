@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>D:/vs2015 project/monogame_ycssd/monogame_ycssd/Content/stage1data.xml</SourceFile>
+  <SourceTime>2018-10-12T09:41:15.8561911+08:00</SourceTime>
+  <DestFile>D:/vs2015 project/monogame_ycssd/monogame_ycssd/Content/bin/Windows/stage1data.xnb</DestFile>
+  <DestTime>2018-10-13T08:24:26.8376925+08:00</DestTime>
+  <Importer>XmlImporter</Importer>
+  <ImporterTime>2017-03-01T23:05:36+08:00</ImporterTime>
+  <Processor>PassThroughProcessor</Processor>
+  <ProcessorTime>2017-03-01T23:05:36+08:00</ProcessorTime>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

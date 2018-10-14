@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:ns="Microsoft.Xna.Framework">
+  <Asset Type="MyXMLData.HeroData">
+    <heroname>dps</heroname>
+    <heath>30</heath>
+    <spritePath>hero</spritePath>
+    <width>48</width>
+    <height>36</height>
+    <position>100 100</position>
+    <velocity>10 10</velocity>
+    <rotation>0.0</rotation>
+  </Asset>
+</XnaContent>
+
+ <!-- public string heroname;
+        public int heath;
+        public string spritePath;
+        public Vector2 position;
+        public Vector2 velocity;
+        public double rotation; -->

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:ns="Microsoft.Xna.Framework">
+  <Asset Type="MyXMLData.BulletData.bullet1_data">
+    <texturePath>bullet1</texturePath>
+    <live>1</live>
+    <isPenetrate>false</isPenetrate>
+    <isRebound>false</isRebound>
+    <isClearBullet>false</isClearBullet>
+  </Asset>
+</XnaContent>

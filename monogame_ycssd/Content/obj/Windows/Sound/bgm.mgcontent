@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>D:/vs2015 project/monogame_ycssd/monogame_ycssd/Content/Sound/bgm.mp3</SourceFile>
+  <SourceTime>2018-10-13T19:04:15.2159285+08:00</SourceTime>
+  <DestFile>D:/vs2015 project/monogame_ycssd/monogame_ycssd/Content/bin/Windows/Sound/bgm.xnb</DestFile>
+  <DestTime>2018-10-13T19:06:32.3089544+08:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2017-03-01T23:05:36+08:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2017-03-01T23:05:36+08:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>D:/vs2015 project/monogame_ycssd/monogame_ycssd/Content/bin/Windows/Sound/bgm.wma</string>
+  </BuildOutput>
+</PipelineBuildEvent>
